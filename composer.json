@@ -1,8 +1,8 @@
 {
-    "name": "nek/school-test-project",
+    "name": "testautomatise",
     "license": "MIT",
     "type": "project",
-    "description": "This is a project to help students learn tests",
+    "description": "Test automatique de facture",
     "autoload":{
         "psr-4":{ "MMI\\":"src/"}
     },
